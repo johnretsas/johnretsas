@@ -20,7 +20,7 @@ When I'm not coding, you can find me **reading** 📚, **playing music** 🎸, o
 
 I write about my experiences and share tutorials on topics like web development, scalable architectures, and more! Here's a list of my latest articles:
 
-- **[Real-Time Chat App Architecture with AWS - A Scalable Approach](https://johnretsas.github.io/blog/real-time-chat-app-architecture)**
+- **[Real-Time Chat App Architecture with AWS - A Scalable Approach (In Progress)](https://johnretsas.github.io/blog/real-time-chat-app-architecture)**
     - November 27, 2024
     - A deep dive into building a scalable real-time chat app with AWS.
     
