@@ -6,7 +6,7 @@ I hold a **Bachelor's** and **MSc in Computer Science** 🎓 and currently work 
 
 While **React** and **Next.js** are my go-to tools at work, I love exploring new technologies 🌐 in my personal projects and at work. You'll often find me coding in **Golang**, **Python**, **Rust**, and **Kotlin**. I'm also a big fan of **serverless technologies** ☁️ and have built several serverless applications using **AWS Lambda**, **AWS S3**, and **AWS SQS** 📦.
 
-When I'm not coding, you can find me **reading** 📚, **playing music** 🎸, or **hiking** 🥾. I also love **traveling** and exploring new cultures 🌍.
+When I'm not coding, you can find me **reading** 📚, **writing my own music** 🎸, or **hiking** 🥾. I also love **traveling** and exploring new cultures 🌍.
 
 
 ## 🚀 Current Focus
