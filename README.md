@@ -4,7 +4,7 @@ I'm a **Senior Full Stack Web Software Engineer** 💻 based in the **UK** 🇬�
 
 I hold a **Bachelor's** and **MSc in Computer Science** 🎓 and currently work at **Trustpilot** 🌟, where I bring ideas to life using **NextJS**, **Typescript**, **Javascript**, and **React** ⚛️.
 
-While **React** is my go-to tool at work, I love exploring new technologies 🌐 in my personal projects and at work. You'll often find me coding in **Golang**, **Python**, **Rust**, and **Kotlin**. I'm also a big fan of **serverless technologies** ☁️ and have built several serverless applications using **AWS Lambda**, **AWS S3**, and **AWS SQS** 📦.
+While **React** and **Next.js** are my go-to tools at work, I love exploring new technologies 🌐 in my personal projects and at work. You'll often find me coding in **Golang**, **Python**, **Rust**, and **Kotlin**. I'm also a big fan of **serverless technologies** ☁️ and have built several serverless applications using **AWS Lambda**, **AWS S3**, and **AWS SQS** 📦.
 
 When I'm not coding, you can find me **reading** 📚, **playing music** 🎸, or **hiking** 🥾. I also love **traveling** and exploring new cultures 🌍.
 
