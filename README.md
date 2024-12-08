@@ -20,6 +20,10 @@ When I'm not coding, you can find me **reading** 📚, **writing my own music** 
 
 I write about my experiences and share tutorials on topics like web development, scalable architectures, and more! Here's a list of my latest articles:
 
+- **[Getting Started with a Node.js TypeScript Boilerplate](https://johnretsas.github.io/blog/node-ts-boilerplate)**
+    - December 8, 2024
+    - A guide to setting up a Node.js TypeScript boilerplate project.
+
 - **[Real-Time Chat App Architecture with AWS - A Scalable Approach (In Progress)](https://johnretsas.github.io/blog/real-time-chat-app-architecture)**
     - November 27, 2024
     - A deep dive into building a scalable real-time chat app with AWS.
@@ -44,7 +48,7 @@ I write about my experiences and share tutorials on topics like web development,
     - October 16, 2024
     - An introduction to CoraMQ's QueueClient and its usage in Go.
     
-- **[CoraMQ - Building a Concurrent In-Memory Queue Service in Go](https://johnretsas.github.io/blog/cora-queue-service)**
+- **[CoraMQ - Building a Concurrent In-Memory Queue Service in Go](https://johnretsas.github.io/blog/cora-queue-service){:target="_blank"}**
     - October 5, 2024
     - A post about building a concurrent in-memory queue service with Go.
 
