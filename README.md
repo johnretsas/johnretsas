@@ -48,7 +48,7 @@ I write about my experiences and share tutorials on topics like web development,
     - October 16, 2024
     - An introduction to CoraMQ's QueueClient and its usage in Go.
     
-- **[CoraMQ - Building a Concurrent In-Memory Queue Service in Go](https://johnretsas.github.io/blog/cora-queue-service){:target="_blank"}**
+- **[CoraMQ - Building a Concurrent In-Memory Queue Service in Go](https://johnretsas.github.io/blog/cora-queue-service)**
     - October 5, 2024
     - A post about building a concurrent in-memory queue service with Go.
 
