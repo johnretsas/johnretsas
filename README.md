@@ -10,7 +10,7 @@ When I'm not coding, you can find me **reading** 📚, **writing my own music** 
 
 ## 🔥 Latest Articles
 
-I write about my experiences and share tutorials on topics like web development, scalable architectures, and more! Here's a list of my latest articles:
+I write about my experiences and share stuff I've learned on topics like web development, scalable architectures, and more! Here's a list of my latest articles:
 
 - **[Understanding Dependency Injection in Golang ](https://johnretsas.github.io/blog/dependency-injection-go)**
   - January 25, 2025
