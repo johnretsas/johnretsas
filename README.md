@@ -15,7 +15,6 @@ I write about my experiences and share stuff I've learned on topics like web dev
 - **[How Many Open Connections Can An Application Have?](https://johnretsas.github.io/blog/how-many-open-connections/)**
   - March 04, 2025
   - Building apps that need to maintain constant connections with many users (like chat or real-time games) requires careful planning
-  - 
 - **[Understanding Dependency Injection in Golang ](https://johnretsas.github.io/blog/dependency-injection-go)**
   - January 25, 2025
   - Learn about Dependency Injection in Go, its benefits, and how to implement it with practical examples.
