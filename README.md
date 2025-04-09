@@ -12,7 +12,7 @@ When I'm not coding, you can find me **reading** 📚, **writing my own music** 
 
 I write about my experiences and share stuff I've learned on topics like web development, scalable architectures, and more! Here's a list of my latest articles:
 
-- **[NPM Package find-circular](https://johnretsas.github.io/blog/npm-find-circular/)
+- **[NPM Package find-circular](https://johnretsas.github.io/blog/npm-find-circular/)**
   - March 29, 2025
   - Detecting Circular References in JavaScript Objects with find-circular
 - **[How Many Open Connections Can An Application Have?](https://johnretsas.github.io/blog/how-many-open-connections/)**
