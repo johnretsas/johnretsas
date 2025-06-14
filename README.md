@@ -8,7 +8,7 @@ While **React** and **Next.js** are my go-to tools at work, I love exploring new
 
 When I'm not coding, you can find me **reading** 📚, **writing my own music** 🎸, or **hiking** 🥾. I also love **traveling** and exploring new cultures 🌍.
 
-## 🔥 Latest Articles
+## Latest Articles
 
 I write about my experiences and share stuff I've learned on topics like web development, scalable architectures, and more! Here's a list of my latest articles:
 
