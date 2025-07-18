@@ -8,6 +8,11 @@ While **React** and **Next.js** are my go-to tools at work, I love exploring new
 
 When I'm not coding, you can find me **reading** 📚, **writing my own music** 🎸, or **hiking** 🥾. I also love **traveling** and exploring new cultures 🌍.
 
+## Open Source
+- **[CoraMQ - Building a Concurrent In-Memory Queue Service in Go](https://johnretsas.github.io/blog/cora-queue-service)**
+  - October 5, 2024
+  - Built a concurrent in-memory queue service with Go. Lightweight, taking advantage of goroutines.
+  - https://github.com/johnretsas/cora-mq-go-queue-service
 ## Latest Articles
 
 I write about my experiences and share stuff I've learned on topics like web development, scalable architectures, and more! Here's a list of my latest articles:
@@ -42,6 +47,3 @@ I write about my experiences and share stuff I've learned on topics like web dev
 - **[CoraMQ - QueueClient v0.1.0 - Go](https://johnretsas.github.io/blog/cora-queue-sdk-ts)**
   - October 16, 2024
   - An introduction to CoraMQ's QueueClient and its usage in Go.
-- **[CoraMQ - Building a Concurrent In-Memory Queue Service in Go](https://johnretsas.github.io/blog/cora-queue-service)**
-  - October 5, 2024
-  - A post about building a concurrent in-memory queue service with Go.
