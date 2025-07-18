@@ -13,13 +13,15 @@ When I'm not coding, you can find me **reading** 📚, **writing my own music** 
   - October 5, 2024
   - Built a concurrent in-memory queue service with Go. Lightweight, taking advantage of goroutines.
   - https://github.com/johnretsas/cora-mq-go-queue-service
-## Latest Articles
-
-I write about my experiences and share stuff I've learned on topics like web development, scalable architectures, and more! Here's a list of my latest articles:
 
 - **[NPM Package find-circular](https://johnretsas.github.io/blog/npm-find-circular/)**
   - March 29, 2025
   - Detecting Circular References in JavaScript Objects with find-circular
+    
+## Latest Articles
+
+I write about my experiences and share stuff I've learned on topics like web development, scalable architectures, and more! Here's a list of my latest articles:
+
 - **[How Many Open Connections Can An Application Have?](https://johnretsas.github.io/blog/how-many-open-connections/)**
   - March 04, 2025
   - Building apps that need to maintain constant connections with many users (like chat or real-time games) requires careful planning
