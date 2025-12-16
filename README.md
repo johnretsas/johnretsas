@@ -12,7 +12,7 @@ When I'm not coding, you can find me **reading** 📚, **writing my own music** 
 - **[CoraMQ - Building a Concurrent In-Memory Queue Service in Go](https://johnretsas.github.io/blog/cora-queue-service)**
   - October 5, 2024
   - Built a concurrent in-memory queue service with Go. Lightweight, taking advantage of goroutines.
-  - https://github.com/johnretsas/cora-mq-go-queue-service
+  - https://github.com/johnretsas/cora-mq
 
 - **[NPM Package find-circular](https://johnretsas.github.io/blog/npm-find-circular/)**
   - March 29, 2025
