@@ -2,7 +2,7 @@
 
 I'm a **Senior Software Engineer** 💻 based in the **UK** 🇬🇧 with more than **8 years of experience** 🏆, specializing in crafting high-performance, scalable web applications 🚀.
 
-I hold a **Bachelor's** and a **MSc in Computer Science** 🎓 and currently work at **Trustpilot** 🌟, where I bring ideas to life using **NextJS**, **Typescript**, **Javascript**, and **React** ⚛️.
+I hold a **Bachelor's** and a **MSc in Computer Science** 🎓 and currently work at **GoodFit** 🌟, where I help build the GTM Intelligence platform of our era using **Typescript**, **AWS**, and **React** ⚛️.
 
 While **React** and **Next.js** are my go-to tools at work, I love exploring new technologies 🌐 in my personal projects and at work. You'll often find me coding in **Golang**, **Python**, **Rust**, and **Kotlin**. I'm also a big fan of **serverless technologies** ☁️ and have built several serverless applications using **AWS Lambda**, **AWS S3**, and **AWS SQS** 📦.
 
