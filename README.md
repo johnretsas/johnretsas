@@ -1,6 +1,6 @@
 # Hi, I'm John (or Yannis) 👋!
 
-I'm a **Senior Full Stack Web Software Engineer** 💻 based in the **UK** 🇬🇧 with **7 years of experience** 🏆, specializing in crafting high-performance, scalable web applications 🚀.
+I'm a **Senior Full Stack Web Software Engineer** 💻 based in the **UK** 🇬🇧 with more than **8 years of experience** 🏆, specializing in crafting high-performance, scalable web applications 🚀.
 
 I hold a **Bachelor's** and a **MSc in Computer Science** 🎓 and currently work at **Trustpilot** 🌟, where I bring ideas to life using **NextJS**, **Typescript**, **Javascript**, and **React** ⚛️.
 
